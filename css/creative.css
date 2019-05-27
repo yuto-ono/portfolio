@@ -10755,3 +10755,16 @@ header.masthead h1 {
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
 }
+
+.highlight {
+  background-color: #ff6;
+}
+
+.card-works {
+  padding: 20px;
+  color: inherit;
+}
+
+.card-works > .card-thumb {
+  margin-bottom: 10px;
+}
