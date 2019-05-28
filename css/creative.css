@@ -4,6 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-creative/blob/master/LICENSE)
  */
 
+@charset "UTF-8";
 /*!
  * Bootstrap v4.3.1 (https://getbootstrap.com/)
  * Copyright 2011-2019 The Bootstrap Authors
@@ -10758,6 +10759,10 @@ header.masthead h1 {
 
 .highlight {
   background-color: #ff6;
+}
+
+.yu-gothic {
+  font-family: "游ゴシック" , "Yu Gothic" , "游ゴシック体" , "YuGothic" , "Hiragino Sans", "ヒラギノ角ゴ Pro W3" , "Hiragino Kaku Gothic Pro" , "メイリオ" , Meiryo , sans-serif;
 }
 
 .card-works {
